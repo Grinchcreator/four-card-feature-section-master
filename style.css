@@ -85,6 +85,7 @@ body{
  margin: 0;
  color: var(--Grey400);
  padding-block-end: 5rem;
+ background-color: var(--White);
 }
 
 h1, h2, h3{
